@@ -1,22 +1,19 @@
-# Baby Helena Shop 3.0
+# Baby Helena Shop 4.0
 
-Versión profesional compatible con GitHub Pages.
+Versión estática compatible con GitHub Pages.
 
 ## Archivos principales
 - `index.html`: inicio
-- `catalogo.html`: catálogo
-- `info.html`: información de tienda, envíos, pagos y compras seguras
-- `seguimiento.html`: seguimiento de pedidos
-- `tiktok.html`: espacio para TikTok Live formato celular
-- `login.html`, `registro.html`, `perfil.html`: cuentas demo
-- `admin/dashboard.html`: panel de administración demo
-- `css/styles.css`: estilos minimalistas blanco/rosado
-- `js/app.js`, `js/admin.js`, `js/products.js`: lógica
-- `assets/logos/`: logos SVG de Starken, Packet, Blue Express y WebPay
+- `catalogo.html`: productos
+- `info.html`: información, envíos, pagos y compra segura
+- `seguimiento.html`: consulta de pedido demo
+- `tiktok.html`: espacio para video TikTok Live formato celular
+- `login.html`, `registro.html`, `perfil.html`
+- `admin/dashboard.html`: panel admin demo
+- `css/styles.css`, `js/app.js`, `js/products.js`
 
 ## Admin demo
 Correo: `admin@babyhelenashop.cl`
 Contraseña: `BabyHelena2026`
 
-## Seguridad
-Esta versión funciona en GitHub Pages, por eso es estática. El JS incluye hash y limpieza básica de texto, pero la seguridad real requiere backend o Firebase/Supabase.
+Nota: en GitHub Pages no hay seguridad real de servidor. Para producción, conectar con Firebase/Supabase o backend propio.
