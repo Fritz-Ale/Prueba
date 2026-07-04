@@ -1,19 +1,12 @@
-# Baby Helena Shop 4.0
+# Baby Helena Shop 5.0
 
-Versión estática compatible con GitHub Pages.
+Diseño inspirado en tiendas premium de e-commerce: encabezado limpio, menú hamburguesa, hero visual, productos arriba, páginas separadas, seguimiento, TikTok Live vertical, footer y carrusel infinito de servicios.
 
-## Archivos principales
-- `index.html`: inicio
-- `catalogo.html`: productos
-- `info.html`: información, envíos, pagos y compra segura
-- `seguimiento.html`: consulta de pedido demo
-- `tiktok.html`: espacio para video TikTok Live formato celular
-- `login.html`, `registro.html`, `perfil.html`
-- `admin/dashboard.html`: panel admin demo
-- `css/styles.css`, `js/app.js`, `js/products.js`
+## Para GitHub Pages
+Sube todos estos archivos a la raíz del repositorio y activa Pages desde la rama `main`.
 
 ## Admin demo
-Correo: `admin@babyhelenashop.cl`
-Contraseña: `BabyHelena2026`
+Correo: admin@babyhelenashop.cl
+Contraseña: BabyHelena2026
 
-Nota: en GitHub Pages no hay seguridad real de servidor. Para producción, conectar con Firebase/Supabase o backend propio.
+> Esta versión es estática para GitHub Pages. La seguridad real requiere backend/Firebase/Supabase.
